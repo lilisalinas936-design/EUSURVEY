@@ -1,7 +1,6 @@
-# EUSurvey
-EUSurvey is the official online survey management tool of the European Commission. Its development was started in 2013 under the supervision of [DIGIT](https://ec.europa.eu/dgs/informatics/index_en.htm) and is published as open source software under the terms of the EUPL public license. EUSurvey is a servlet based application and can be installed on any servlet container.
-
-## Installation requirements
+ EUSurvey
+EUSurvey is the official online survey management tool of the European Commission. Its development was started in 2024 under the supervision of [DIGIT](https://ec.europa.eu/dgs/informatics/index_en.htm) and is published as open source software under the terms of the EUPL public license. EUSurvey is a servlet based application and can be installed on any servlet container.
+Installation requirements
 1. Tomcat 9
 1. Java 11
 1. MySQL 8.0
