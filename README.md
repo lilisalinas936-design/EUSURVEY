@@ -80,6 +80,4 @@ Respetuosamente,
 
 César Salinas 
 Paraguay
-Correo lilisalinail.com
-* Acepto / No acepto que mi nombre se publique como la persona que reporta este problema. (Por favor, seleccione una opción antes de enviar) 
 
